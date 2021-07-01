@@ -4,6 +4,7 @@
 <Br>
 <h1>About Me</h1>
 
+ - 🎓 Business Process Management Specialist
 - 💻: Data Analyst and Reporting Specialist -  <a href="https://www.fastshop.com.br/web/i/institucional">Fast Shop S/A</a>
 - 🏫: Under degree student in Big Data Analytics - <a href= "https://www.mackenzie.br/en/universidade/meet-the-university/"> Mackenzie Presbyterian University </a> 
 - 📚: Blog Writter - <a href= "https://spacedata.com.br/members/daiane-klein/posts/"> Space Data</a> 
@@ -22,7 +23,7 @@
 <h1>Some of my Projects! 🎨</h1>
 <Br>
  
- <a href="https://github.com/daianeklein/imersao-dados-Alura">Data Analysis of Brazilian Education</a>
+ <a href="https://github.com/daianeklein/imersao-dados-Alura">Data Analysis of Brazilian Education 🏅 🏆 </a>
   
 Project Description: Data Imersion was a data analysis competition organized by <a href=https://www.alura.com.br> Alura </a> with thousands Data Science students.
   
@@ -45,7 +46,7 @@ Project Description: The aim of this Data exploratory project is analyze how gov
 
  ***
   
- <a href="https://github.com/daianeklein/bootcamp-Alura/blob/main/Desafio-Modulo3.ipynb">School Bullying - A descriptive statistics Perspective</a>
+ <a href="https://github.com/daianeklein/bootcamp-Alura/blob/main/Desafio-Modulo3.ipynb">School Bullying - A Descriptive Statistics Perspective</a>
   
 Project Description: With some descriptive statistics concepts, the aim of this project is to analyze how bullying can affect kids and teenagers in school environment.
   
