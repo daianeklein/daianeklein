@@ -10,9 +10,6 @@
 - 🌱: I’m currently learning Statistics and Machine Learning algorithms.
 - 💬: Ask me about Data Analysis, Visualization and Machine Learning algorithms
 - 💬   Pronouns: She/Her
-  
-  
-  
 <hr>
 <Br>
 <h1 align="center">Get in Touch! 📬</h1>
@@ -22,10 +19,10 @@
 </p>
   
 <Br>
-<h1>Some of My Projects! 🎨</h1>
+<h1>Some of my Projects! 🎨</h1>
 <Br>
  
- <a href="https://github.com/daianeklein/imersao-dados-Alura">Analysis of Brazilian Education Data</a>
+ <a href="https://github.com/daianeklein/imersao-dados-Alura">Data Analysis of Brazilian Education</a>
   
 Project Description: Data Imersion was a data analysis competition organized by <a href=https://www.alura.com.br> Alura </a> with thousands Data Science students.
   
