@@ -5,8 +5,8 @@
 <h1>About Me</h1>
 
  - 🎓 Business Process Management Specialist
-- 💻: Data Analyst and Reporting Specialist -  <a href="https://www.fastshop.com.br/web/i/institucional">Fast Shop S/A</a>
-- 🏫: Under degree student in Big Data Analytics - <a href= "https://www.mackenzie.br/en/universidade/meet-the-university/"> Mackenzie Presbyterian University </a> 
+- 💻: Data Scientist -  <a href="https://www.pistildata.com/">Pistil Data</a>
+- 🏫: Big Data Analytics Specialization Student - <a href= "https://www.mackenzie.br/en/universidade/meet-the-university/"> Mackenzie Presbyterian University </a> 
 - 📚: Blog Writter - <a href= "https://spacedata.com.br/members/daiane-klein/posts/"> Space Data</a> 
 - 🌱: I’m currently learning Statistics and Machine Learning algorithms.
 - 💬: Ask me about Data Analysis, Visualization and Machine Learning algorithms
