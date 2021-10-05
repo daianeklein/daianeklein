@@ -4,8 +4,9 @@
 <Br>
 <h1>About Me</h1>
 
- - 🎓 Business Process Management Specialist
+
 - 💻: Data Scientist -  <a href="https://www.pistildata.com/">Pistil Data</a>
+- 🎓 Business Process Management Specialist
 - 🏫: Big Data Analytics Specialization Student - <a href= "https://www.mackenzie.br/en/universidade/meet-the-university/"> Mackenzie Presbyterian University </a> 
 - 📚: Blog Writter - <a href= "https://spacedata.com.br/members/daiane-klein/posts/"> Space Data</a> 
 - 🌱: I’m currently learning Statistics and Machine Learning algorithms.
