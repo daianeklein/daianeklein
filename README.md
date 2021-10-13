@@ -57,7 +57,7 @@ Project Description: With some descriptive statistics concepts, the aim of this 
   
 Project Description: The aim of this project is to analyze a dataset in order to develop a machine learning model and predict house's sale price. The dataset is available in a "Getting Started Competition" in Kaggle (link available above).
   
- Main Techiniques:  a complete pipeline Machine Learning model. Data Analysis, feature engineering and selection, Machine Learning model.
+ Main Techniques:  a complete pipeline Machine Learning model. Data Analysis, feature engineering and selection, Machine Learning model.
  Boruta, Linear Regression, Random Forest and XGBoost algorithms.
 
 
