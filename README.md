@@ -59,8 +59,16 @@ Project Description: The aim of this project is to analyze a dataset in order to
   
  Main Techniques:  a complete pipeline Machine Learning model. Data Analysis, feature engineering and selection, Machine Learning model.
  Boruta, Linear Regression, Random Forest and XGBoost algorithms.
-
-
+  
+  ***
+  
+   <a href="https://github.com/daianeklein/jobs-stacks">WEB SCRAPING AND DATA ANALYSIS</a>
+  
+  Project Description: The aim of this project is to analyze the mains skills required in some jobs position in the Data field. To do so, it's divided into two parts: 
+  
+  1. Data collection
+  2. Web scraping and data analysis.
+  
 <Br>
 <hr>
 <Br>
