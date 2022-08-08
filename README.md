@@ -75,10 +75,10 @@ Project Description: The aim of this project is to analyze a dataset in order to
   
   Project Description: In this project, i went through Data cleaning and data analysis. There's a section for the Cohort chart and also an RFM table. Then, based on the founded insights, i built some clusters using the K-means algorithm.
   
-    ***
+  ***
   <a href="https://github.com/daianeklein/data-viz/tree/main/cars-accidents">Data Visualization - Dash & Plotly</a>
   
-  Project Description: Using Dash and Plotly from Python, i built a interactive Dashboards about car accidents in Brazil. A short demo of the project is available in <a https://www.linkedin.com/feed/update/urn:li:activity:6934890333293936640/">this post</a> on Linkedin.
+  Project Description: Using Dash and Plotly from Python, i built a interactive Dashboards about car accidents in Brazil. A short demo of the project is available in <a href="https://www.linkedin.com/feed/update/urn:li:activity:6934890333293936640/"> this post</a> on Linkedin.
   
 <Br>
 <hr>
