@@ -62,7 +62,7 @@ Project Description: The aim of this project is to analyze a dataset in order to
   
   ***
   
-   <a href="https://github.com/daianeklein/jobs-stacks">WEB SCRAPING AND DATA ANALYSIS</a>
+   <a href="https://github.com/daianeklein/jobs-stacks">Web Scraping and Data Analysis</a>
   
   Project Description: The aim of this project is to analyze the mains skills required in some jobs position in the Data field. To do so, it's divided into two parts: 
   
@@ -78,7 +78,7 @@ Project Description: The aim of this project is to analyze a dataset in order to
   ***
   <a href="https://github.com/daianeklein/data-viz/tree/main/cars-accidents">Data Visualization - Dash & Plotly</a>
   
-  Project Description: Using Dash and Plotly from Python, i built a interactive Dashboards about car accidents in Brazil. A short demo of the project is available in <a href="https://www.linkedin.com/feed/update/urn:li:activity:6934890333293936640/"> this post</a> on Linkedin.
+  Project Description: Using Dash and Plotly from Python, i built an interactive Dashboards about car accidents in Brazil. A short demo of the project is available in <a href="https://www.linkedin.com/feed/update/urn:li:activity:6934890333293936640/"> this post</a> on Linkedin.
   
 <Br>
 <hr>
