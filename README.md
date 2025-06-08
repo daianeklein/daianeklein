@@ -5,11 +5,11 @@
 <h1>About Me</h1>
 
 
-- 💻: Data Scientist -  <a href="https://www.pistildata.com/">Pistil Data</a>
+- 💻: Senior Data Analyst | Analytics Engineer
 - 🎓 Business Process Management Specialist
-- 🏫: Big Data Analytics Specialization Student - <a href= "https://www.mackenzie.br/en/universidade/meet-the-university/"> Mackenzie Presbyterian University </a> 
+- 🏫: Big Data Analytics Specialization - <a href= "https://www.mackenzie.br/en/universidade/meet-the-university/"> Mackenzie Presbyterian University </a> 
 - 📚: Blog Writter - <a href= "https://spacedata.com.br/members/daiane-klein/posts/"> Space Data</a> 
-- 🌱: I’m currently learning Statistics and Machine Learning algorithms.
+- 🌱: I’m currently learning AI, Data Pipelines and Cloud Solutions.
 - 💬: Ask me about Data Analysis, Visualization and Machine Learning algorithms
 - 💬   Pronouns: She/Her
 <hr>
